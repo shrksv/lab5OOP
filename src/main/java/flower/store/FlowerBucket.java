@@ -16,4 +16,3 @@ public class FlowerBucket extends Item {
         flowerPacks.add(flowerPack);
     }
 }
-
